@@ -32,5 +32,5 @@ _(Skip this if already enabled)_
 
 ## 📌 Notes
 
-- Works on **Android 8+** (if specific requirements exist, update here).
+- Works on **Android 8+**
 - This is a **test build**—report bugs to [rapha07.el@gmail.com].
