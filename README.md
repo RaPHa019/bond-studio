@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+# Project Test APK - Installation Guide
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Follow these steps to install the APK on your Android device.
 
-## Get started
+## 📥 Download the APK
 
-1. Install dependencies
+1. Download the APK file from the link below:
+   - [Download APK](https://drive.google.com/drive/folders/1I-rwjJSqx58bBhrtlHIOMAuvbSvsHYA4?usp=sharing)
+2. Save the file to your device's **Downloads** folder.
 
-   ```bash
-   npm install
-   ```
+## 📲 Install the APK
 
-2. Start the app
+### ⚙️ Allow Installation from Unknown Sources
 
-   ```bash
-    npx expo start
-   ```
+_(Skip this if already enabled)_
 
-In the output, you'll find options to open the app in a
+1. Go to **Settings** → **Security** (or **Apps & Notifications**).
+2. Enable **"Install Unknown Apps"** or **"Unknown Sources"** for your browser/file manager.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 🔧 Installation Steps
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+1. Open **Files** (or your file manager) and locate the downloaded APK.
+2. Tap the APK file → **Install**.
+3. Wait for the installation to finish.
+4. Tap **Open** to launch the app or find it in your app drawer.
 
-## Get a fresh project
+## ⚠️ Troubleshooting
 
-When you're ready, run:
+- **"App not installed"**: Ensure enough storage space or redownload the APK.
+- **"Blocked by Play Protect"**: Tap **"Install Anyway"** (if shown).
+- **Corrupted file?** Try downloading again.
 
-```bash
-npm run reset-project
-```
+## 📌 Notes
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Works on **Android 8+** (if specific requirements exist, update here).
+- This is a **test build**—report bugs to [rapha07.el@gmail.com].
